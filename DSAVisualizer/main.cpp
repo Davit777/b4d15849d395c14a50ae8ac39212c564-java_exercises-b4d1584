@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+#include "View/mainwindow.h"
 #include <QApplication>
 #include <boost/graph/adjacency_list.hpp>
 #include <boost/graph/graphviz.hpp>

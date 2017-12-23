@@ -13,11 +13,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        View/mainwindow.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += View/mainwindow.h
 
-FORMS    += mainwindow.ui
+FORMS    += View/mainwindow.ui
 
 INCLUDEPATH += C:/boost/boost_1_65_1/
 LIBS += "-LC:/boost/boost_1_65_1/libs/"
